@@ -12,12 +12,7 @@
 
 ### 👩‍💻 Sobre mí
 
-- 🎓 Estudiante de **Ingeniería de Software** en la **Universidad Estatal de Milagro (UNEMI)**
-- 🌐 Trabajo en proyectos grupales (**Grupo 6**) que combinan **IoT, frontend y análisis de datos**
-- 🛠️ Actualmente desarrollando un **dashboard meteorológico** con **ESP32 + Next.js/TypeScript**
-- 🔬 Explorando temas de **ciberseguridad**, **testing de software** y **modelado matemático**
-- 📚 Interesada en **arquitectura de software segura**, **STRIDE** y buenas prácticas de diseño
-- 💬 Pregúntame sobre desarrollo frontend, IoT o testing de software
+
 
 ---
 
