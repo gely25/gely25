@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=¡Hola,%20soy%20Gely!&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
 
 <!-- Texto tipo máquina de escribir -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Estudiante+de+Ingenier%C3%ADa+de+Software+%40+UNEMI;Apasionada+por+el+desarrollo+IoT+y+Frontend;Construyendo+dashboards%2C+APIs+y+prototipos;Aprendiendo+algo+nuevo+cada+d%C3%ADa+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Estudiante+de+Ingenier%C3%ADa+de+Software;Interesada+en+IA+y+Ciberseguridad;Construyendo+dashboards%2C+APIs+y+prototipos;Aprendiendo+algo+nuevo+cada+d%C3%ADa+%F0%9F%9A%80" alt="Typing SVG" />
 
 </div>
 
@@ -12,7 +12,10 @@
 
 ### 👩‍💻 Sobre mí
 
-
+- 🎓 Estudiante de **Ingeniería de Software**
+- 🤖 Interesada en **Inteligencia Artificial** y **Ciberseguridad**
+- 🔬 Explorando **testing de software** y **modelado matemático**
+- 📚 Interesada en **arquitectura de software segura**, **STRIDE** y buenas prácticas de diseño
 
 ---
 
