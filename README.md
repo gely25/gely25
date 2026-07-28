@@ -10,7 +10,7 @@
 
 ---
 
-### 👩‍💻 Sobre mí
+###Sobre mí
 
 - 🎓 Estudiante de **Ingeniería de Software**
 - 🤖 Interesada en **Inteligencia Artificial** y **Ciberseguridad**
@@ -19,7 +19,7 @@
 
 ---
 
-### 🧰 Stack de tecnologías
+### Stack de tecnologías
 
 <div align="center">
 <img src="https://skillicons.dev/icons?i=ts,react,nextjs,py,fastapi,postgres,arduino,cpp,html,css,git,github,figma,vscode&theme=dark" />
@@ -27,7 +27,7 @@
 
 ---
 
-### 📊 Estadísticas de GitHub
+### Estadísticas de GitHub
 
 <div align="center">
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=gely25&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
@@ -40,7 +40,7 @@
 
 ---
 
-### 📈 Gráfico de actividad
+### Gráfico de actividad
 
 <div align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=gely25&theme=tokyo-night&hide_border=true" width="100%"/>
