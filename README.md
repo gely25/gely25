@@ -25,7 +25,7 @@ Enfoque:    Diseño de interfaces + lógica detrás de ellas
 
 ---
 
-### 🧰 Stack de tecnologías
+### Stack de tecnologías
 
 <div align="center">
 <img src="https://skillicons.dev/icons?i=ts,react,nextjs,py,fastapi,postgres,arduino,cpp,html,css,git,github,figma,vscode&theme=dark" />
@@ -33,7 +33,7 @@ Enfoque:    Diseño de interfaces + lógica detrás de ellas
 
 ---
 
-### 📊 Estadísticas de GitHub
+### Estadísticas de GitHub
 
 <div align="center">
 
