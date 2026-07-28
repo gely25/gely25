@@ -30,7 +30,7 @@ Enfoque:    Diseño de interfaces + lógica detrás de ellas
 </td>
 <td width="35%" align="center">
 
-<img src="robot.gif" width="220"/>
+<img src="robot.gif" width="150"/>
 
 </td>
 </tr>
