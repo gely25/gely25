@@ -10,7 +10,7 @@
 
 ---
 
-### 👩‍💻 Sobre mí
+### Sobre mí
 
 ```yaml
 Nombre:     Sam
@@ -19,12 +19,9 @@ Intereses:  [Inteligencia Artificial, Ciberseguridad, UX/UI]
 Enfoque:    Diseño de interfaces + lógica detrás de ellas
 ```
 
-- 🤖 Interesada en **Inteligencia Artificial** y **Ciberseguridad**
-- 🎨 Me atrae el **diseño UX/UI**: pensar en la experiencia antes que en el código
-- 🛠️ Actualmente desarrollando un **dashboard meteorológico** con **ESP32 + Next.js/TypeScript**
-- 🔬 Explorando **testing de software** y **modelado matemático**
-- 📚 Interesada en **arquitectura de software segura**, **STRIDE** y buenas prácticas de diseño
-- 💬 Pregúntame sobre IA, ciberseguridad, UX/UI o frontend
+- 🤖 **Intereses principales:** Inteligencia Artificial, ciberseguridad aplicada y arquitectura de software segura (modelado de amenazas STRIDE).
+- 🔬 **Enfoque técnico:** Calidad de software (testing), modelado matemático y diseño de interfaces intuitivas (UX/UI).
+- 💬 **Hablemos de:** Desarrollo de sistemas, seguridad informática, buenas prácticas de código o metodologías de diseño.
 
 ---
 
@@ -50,15 +47,6 @@ Enfoque:    Diseño de interfaces + lógica detrás de ellas
 
 </div>
 
----
-
-### 📈 Gráfico de actividad
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=gely25&theme=tokyo-night&hide_border=true" width="100%"/>
-</div>
-
----
 
 ### 🐍 Serpiente de contribuciones
 
