@@ -26,7 +26,7 @@ class Sam:
         print("¡Hola! Bienvenido a mi perfil 👋")
 ```
 
-![IA](https://img.shields.io/badge/Inteligencia_Artificial-00F7FF?style=for-the-badge&logo=openai&logoColor=black)
+![IA](https://img.shields.io/badge/Inteligencia_Artificial-#7FBFB0?style=for-the-badge&logo=openai&logoColor=black)
 ![Ciberseguridad](https://img.shields.io/badge/Ciberseguridad-7C3AED?style=for-the-badge&logo=hackthebox&logoColor=white)
 ![UX/UI](https://img.shields.io/badge/UX%2FUI-FF6B6B?style=for-the-badge&logo=figma&logoColor=white)
 
