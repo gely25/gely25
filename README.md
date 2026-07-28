@@ -50,24 +50,21 @@ class Sam:
 
 <div align="center">
 
-**Frontend & UI**
+Frontend & UI
 
-<img src="https://skillicons.dev/icons?i=ts,react,nextjs,tailwind,html,css,figma&theme=dark" />
+<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,html,css,figma&theme=dark" />
 
-**Backend & Datos**
+Backend & Datos
 
 <img src="https://skillicons.dev/icons?i=py,fastapi,django,postgres&theme=dark" />
 
-**Hardware & IoT**
+Hardware & IoT
 
 <img src="https://skillicons.dev/icons?i=arduino,cpp&theme=dark" />
 
-**Herramientas**
+Herramientas
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" />
-
-</div>
-
+<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" /> </div>
 ---
 
 ### Estadísticas de GitHub
