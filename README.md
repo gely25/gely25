@@ -19,10 +19,12 @@ Intereses:  [Inteligencia Artificial, Ciberseguridad, UX/UI]
 Enfoque:    Diseño de interfaces + lógica detrás de ellas
 ```
 
-- 🤖 **Intereses principales:** Inteligencia Artificial, ciberseguridad aplicada y arquitectura de software segura (modelado de amenazas STRIDE).
-- 🛠️ **En desarrollo:** Un dashboard meteorológico en tiempo real integrando **ESP32**, **Next.js** y **TypeScript**.
-- 🔬 **Enfoque técnico:** Calidad de software (testing), modelado matemático y diseño de interfaces intuitivas (UX/UI).
-- 💬 **Hablemos de:** Desarrollo de sistemas, seguridad informática, buenas prácticas de código o metodologías de diseño.
+- 🤖 Interesada en **Inteligencia Artificial** y **Ciberseguridad**
+- 🎨 Me atrae el **diseño UX/UI**: pensar en la experiencia antes que en el código
+- 🛠️ Actualmente desarrollando un **dashboard meteorológico** con **ESP32 + Next.js/TypeScript**
+- 🔬 Explorando **testing de software** y **modelado matemático**
+- 📚 Interesada en **arquitectura de software segura**, **STRIDE** y buenas prácticas de diseño
+- 💬 Pregúntame sobre IA, ciberseguridad, UX/UI o frontend
 
 ---
 
@@ -37,12 +39,15 @@ Enfoque:    Diseño de interfaces + lógica detrás de ellas
 ### 📊 Estadísticas de GitHub
 
 <div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=gely25&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=gely25&theme=tokyonight&hide_border=true" />
-</div>
 
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gely25&layout=compact&theme=tokyonight&hide_border=true" />
+[![](https://raw.githubusercontent.com/gely25/gely25/main/profile-summary-card-output/aura_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
+[![](https://raw.githubusercontent.com/gely25/gely25/main/profile-summary-card-output/aura_dark/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/gely25/gely25/main/profile-summary-card-output/aura_dark/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
+[![](https://raw.githubusercontent.com/gely25/gely25/main/profile-summary-card-output/aura_dark/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/gely25/gely25/main/profile-summary-card-output/aura_dark/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
 </div>
 
 ---
