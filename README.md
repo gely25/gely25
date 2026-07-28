@@ -38,7 +38,7 @@ class Sam:
 
 <img src="robot.gif" width="150"/>
 <br/>
-<sub><i>siempre aprendiendo 🤖</i></sub>
+<sub><i>Siempre aprendiendo... ;) </i></sub>
 
 </td>
 </tr>
