@@ -1,25 +1,20 @@
-<table>
-<tr>
-<td width="70%">
+<div align="center">
 
+<!-- Banner de bienvenida animado (capsule-render) -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=¡Hola,%20soy%20Sam!&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
 
-<div align="center">
+<!-- Texto tipo máquina de escribir -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Estudiante+de+Ingenier%C3%ADa+de+Software;Interesada+en+IA%2C+Ciberseguridad+y+UX%2FUI;Construyendo+dashboards%2C+APIs+y+prototipos;Aprendiendo+algo+nuevo+cada+d%C3%ADa+%F0%9F%9A%80" alt="Typing SVG" />
+
 </div>
-
-</td>
-<td width="30%" align="center">
-
-<img src="robot.gif" width="200"/>
-
-</td>
-</tr>
-</table>
 
 ---
 
 ### Sobre mí
+
+<table>
+<tr>
+<td width="65%" valign="top">
 
 ```yaml
 Nombre:     Sam
@@ -31,6 +26,15 @@ Enfoque:    Diseño de interfaces + lógica detrás de ellas
 - 🤖 **Intereses principales:** Inteligencia Artificial, ciberseguridad aplicada y arquitectura de software segura (modelado de amenazas STRIDE).
 - 🔬 **Enfoque técnico:** Calidad de software (testing), modelado matemático y diseño de interfaces intuitivas (UX/UI).
 - 💬 **Hablemos de:** Desarrollo de sistemas, seguridad informática, buenas prácticas de código o metodologías de diseño.
+
+</td>
+<td width="35%" align="center">
+
+<img src="robot.gif" width="220"/>
+
+</td>
+</tr>
+</table>
 
 ---
 
