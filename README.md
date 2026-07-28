@@ -26,7 +26,7 @@ class Sam:
         print("¡Hola! Bienvenido a mi perfil 👋")
 ```
 
-![IA](https://img.shields.io/badge/Inteligencia_Artificial-7FBFB0?style=for-the-badge&logo=openai&logoColor=black)
+![IA](https://img.shields.io/badge/Inteligencia_Artificial-A7F3D0?style=for-the-badge&logo=openai&logoColor=black)
 ![Ciberseguridad](https://img.shields.io/badge/Ciberseguridad-7C3AED?style=for-the-badge&logo=hackthebox&logoColor=white)
 ![UX/UI](https://img.shields.io/badge/UX%2FUI-FF6B6B?style=for-the-badge&logo=figma&logoColor=white)
 
@@ -38,7 +38,7 @@ class Sam:
 
 <img src="robot.gif" width="150"/>
 <br/>
-<sub><i>Siempre aprendiendo... ;) </i></sub>
+<sub><i> Siempre aprendiendo... ;) </i></sub>
 
 </td>
 </tr>
@@ -52,11 +52,11 @@ class Sam:
 
 **Frontend & UI**
 
-<img src="https://skillicons.dev/icons?i=ts,react,nextjs,html,css,figma&theme=dark" />
+<img src="https://skillicons.dev/icons?i=ts,react,nextjs,tailwind,html,css,figma&theme=dark" />
 
 **Backend & Datos**
 
-<img src="https://skillicons.dev/icons?i=py,fastapi,postgres&theme=dark" />
+<img src="https://skillicons.dev/icons?i=py,fastapi,django,postgres&theme=dark" />
 
 **Hardware & IoT**
 
@@ -102,3 +102,4 @@ class Sam:
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
 
 </div>
+
