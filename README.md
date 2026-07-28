@@ -14,23 +14,27 @@
 
 <table>
 <tr>
-<td width="65%" valign="top">
+<td width="65%" valign="middle">
 
 ```yaml
 Nombre:     Sam
 Rol:        Estudiante de Ingeniería de Software
-Intereses:  [Inteligencia Artificial, Ciberseguridad, UX/UI]
 Enfoque:    Diseño de interfaces + lógica detrás de ellas
 ```
 
-- 🤖 **Intereses principales:** Inteligencia Artificial, ciberseguridad aplicada y arquitectura de software segura (modelado de amenazas STRIDE).
-- 🔬 **Enfoque técnico:** Calidad de software (testing), modelado matemático y diseño de interfaces intuitivas (UX/UI).
+![IA](https://img.shields.io/badge/Inteligencia_Artificial-00F7FF?style=for-the-badge&logo=openai&logoColor=black)
+![Ciberseguridad](https://img.shields.io/badge/Ciberseguridad-7C3AED?style=for-the-badge&logo=hackthebox&logoColor=white)
+![UX/UI](https://img.shields.io/badge/UX%2FUI-FF6B6B?style=for-the-badge&logo=figma&logoColor=white)
+
+- 🔬 **Enfoque técnico:** Calidad de software (testing), modelado matemático y diseño de interfaces intuitivas.
 - 💬 **Hablemos de:** Desarrollo de sistemas, seguridad informática, buenas prácticas de código o metodologías de diseño.
 
 </td>
-<td width="35%" align="center">
+<td width="35%" align="center" valign="middle">
 
 <img src="robot.gif" width="150"/>
+<br/>
+<sub><i>siempre aprendiendo 🤖</i></sub>
 
 </td>
 </tr>
