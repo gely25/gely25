@@ -10,7 +10,7 @@
 
 ---
 
-### Sobre mí
+### 👩‍💻 Sobre mí
 
 ```yaml
 Nombre:     Sam
@@ -18,10 +18,14 @@ Rol:        Estudiante de Ingeniería de Software
 Intereses:  [Inteligencia Artificial, Ciberseguridad, UX/UI]
 Enfoque:    Diseño de interfaces + lógica detrás de ellas
 ```
-- 🤖 **Intereses principales:** Arquitectura de software segura (modelado de amenazas STRIDE), inteligencia Artificial y ciberseguridad aplicada.
+
+- 🤖 **Intereses principales:** Inteligencia Artificial, ciberseguridad aplicada y arquitectura de software segura (modelado de amenazas STRIDE).
+- 🛠️ **En desarrollo:** Un dashboard meteorológico en tiempo real integrando **ESP32**, **Next.js** y **TypeScript**.
 - 🔬 **Enfoque técnico:** Calidad de software (testing), modelado matemático y diseño de interfaces intuitivas (UX/UI).
 - 💬 **Hablemos de:** Desarrollo de sistemas, seguridad informática, buenas prácticas de código o metodologías de diseño.
+
 ---
+
 ### 🧰 Stack de tecnologías
 
 <div align="center">
