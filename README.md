@@ -12,6 +12,10 @@
 
 ### Sobre mí
 
+<table>
+<tr>
+<td width="65%" valign="top">
+
 ```yaml
 Nombre:     Sam
 Rol:        Estudiante de Ingeniería de Software
@@ -22,6 +26,15 @@ Enfoque:    Diseño de interfaces + lógica detrás de ellas
 - 🤖 **Intereses principales:** Inteligencia Artificial, ciberseguridad aplicada y arquitectura de software segura (modelado de amenazas STRIDE).
 - 🔬 **Enfoque técnico:** Calidad de software (testing), modelado matemático y diseño de interfaces intuitivas (UX/UI).
 - 💬 **Hablemos de:** Desarrollo de sistemas, seguridad informática, buenas prácticas de código o metodologías de diseño.
+
+</td>
+<td width="35%" align="center">
+
+<img src="robot.gif" width="220"/>
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -46,7 +59,6 @@ Enfoque:    Diseño de interfaces + lógica detrás de ellas
 [![](https://raw.githubusercontent.com/gely25/gely25/main/profile-summary-card-output/aura_dark/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 </div>
-
 
 ### 🐍 Serpiente de contribuciones
 
