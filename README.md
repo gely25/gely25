@@ -16,10 +16,14 @@
 <tr>
 <td width="65%" valign="middle">
 
-```yaml
-Nombre:     Sam
-Rol:        Estudiante de Ingeniería de Software
-Enfoque:    Diseño de interfaces + lógica detrás de ellas
+```python
+class Sam:
+    def __init__(self):
+        self.role  = "Estudiante de Ingeniería de Software"
+        self.focus = "Diseño de interfaces + lógica detrás de ellas"
+
+    def say_hi(self):
+        print("¡Hola! Bienvenido a mi perfil 👋")
 ```
 
 ![IA](https://img.shields.io/badge/Inteligencia_Artificial-00F7FF?style=for-the-badge&logo=openai&logoColor=black)
@@ -45,7 +49,23 @@ Enfoque:    Diseño de interfaces + lógica detrás de ellas
 ### Stack de tecnologías
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=ts,react,nextjs,py,fastapi,postgres,arduino,cpp,html,css,git,github,figma,vscode&theme=dark" />
+
+**Frontend & UI**
+
+<img src="https://skillicons.dev/icons?i=ts,react,nextjs,html,css,figma&theme=dark" />
+
+**Backend & Datos**
+
+<img src="https://skillicons.dev/icons?i=py,fastapi,postgres&theme=dark" />
+
+**Hardware & IoT**
+
+<img src="https://skillicons.dev/icons?i=arduino,cpp&theme=dark" />
+
+**Herramientas**
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" />
+
 </div>
 
 ---
