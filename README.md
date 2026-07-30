@@ -80,14 +80,6 @@ class Sam:
 
 ### 🐍 Serpiente de contribuciones
 
-<div align="center">
-
-<!-- Versión oscura para que combine con el resto del README -->
-<img src="https://raw.githubusercontent.com/gely25/gely25/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
-
-</div>
-
-🐍 Serpiente de contribuciones
 <div align="center"> <!-- Cambia automáticamente según el tema claro/oscuro del visitante --> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gely25/gely25/output/github-contribution-grid-snake-dark.svg"> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gely25/gely25/output/github-contribution-grid-snake.svg"> <img src="https://raw.githubusercontent.com/gely25/gely25/output/github-contribution-grid-snake-dark.svg" alt="snake animation" /> </picture> </div>
 ---
 
