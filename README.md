@@ -34,15 +34,9 @@ class Sam:
 - 💬 **Hablemos de:** Desarrollo de sistemas, seguridad informática, buenas prácticas de código o metodologías de diseño.
 
 </td>
-<td width="35%" align="center" valign="middle">
+<td width="35%" align="center" valign="middle"> <picture> <source media="(prefers-color-scheme: dark)" srcset="robot.gif"> <source media="(prefers-color-scheme: light)" srcset="darkrobi.gif"> <img src="robot.gif" width="150"/> </picture> <br/> <sub><i>siempre aprendiendo </i></sub> </td> </tr> </table>
 
-<img src="robot.gif" width="150"/>
-<br/>
-<sub><i> Siempre aprendiendo ;) </i></sub>
 
-</td>
-</tr>
-</table>
 
 ---
 
@@ -93,6 +87,8 @@ class Sam:
 
 </div>
 
+🐍 Serpiente de contribuciones
+<div align="center"> <!-- Cambia automáticamente según el tema claro/oscuro del visitante --> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gely25/gely25/output/github-contribution-grid-snake-dark.svg"> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gely25/gely25/output/github-contribution-grid-snake.svg"> <img src="https://raw.githubusercontent.com/gely25/gely25/output/github-contribution-grid-snake-dark.svg" alt="snake animation" /> </picture> </div>
 ---
 
 <div align="center">
