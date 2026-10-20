@@ -1,10 +1,10 @@
 <div align="center">
 
-<!-- Banner de bienvenida: oscuro en modo claro para que destaque, degradado original en modo oscuro -->
+<!-- Banner de bienvenida: mismo degradado en ambos modos, letras blancas en oscuro y oscuras en claro -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6&height=200&section=header&text=¡Hola,%20soy%20Sam!&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35">
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:1e1b4b,50:4c1d95,100:7c3aed&height=200&section=header&text=¡Hola,%20soy%20Sam!&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e1b4b,50:4c1d95,100:7c3aed&height=200&section=header&text=¡Hola,%20soy%20Sam!&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6&height=200&section=header&text=¡Hola,%20soy%20Sam!&fontSize=42&fontColor=111111&animation=fadeIn&fontAlignY=35">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6&height=200&section=header&text=¡Hola,%20soy%20Sam!&fontSize=42&fontColor=111111&animation=fadeIn&fontAlignY=35" width="100%"/>
 </picture>
 
 <!-- Texto tipo máquina de escribir: cian en modo oscuro, morado oscuro en modo claro -->
@@ -110,19 +110,6 @@ class Sam:
 </div>
 
 ---
-
-<div align="center">
-
-![Visitas](https://visitor-badge.laobi.icu/badge?page_id=gely25.gely25)
-
-<!-- Banner del footer: oscuro en modo claro, degradado original en modo oscuro -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6&height=100&section=footer">
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:1e1b4b,50:4c1d95,100:7c3aed&height=100&section=footer">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e1b4b,50:4c1d95,100:7c3aed&height=100&section=footer" width="100%"/>
-</picture>
-
-</div>
 
 <div align="center">
 
