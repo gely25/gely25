@@ -16,11 +16,11 @@
 <tr>
 <td width="65%" valign="middle">
 
-<img src="codigo.svg" width="100%" alt="class Sam: role = Estudiante de Ingeniería de Software, focus = Diseño de interfaces + lógica detrás de ellas"/>
+<p><img src="codigo.svg" width="100%" alt="class Sam: role = Estudiante de Ingeniería de Software, focus = Diseño de interfaces + lógica detrás de ellas"/></p>
 
-![IA](https://img.shields.io/badge/Inteligencia_Artificial-A7F3D0?style=for-the-badge&logo=openai&logoColor=black)
+![IA](https://img.shields.io/badge/Inteligencia_Artificial-C4B5FD?style=for-the-badge&logo=openai&logoColor=1e1b4b)
 ![Ciberseguridad](https://img.shields.io/badge/Ciberseguridad-7C3AED?style=for-the-badge&logo=hackthebox&logoColor=white)
-![UX/UI](https://img.shields.io/badge/UX%2FUI-FF6B6B?style=for-the-badge&logo=figma&logoColor=white)
+![UX/UI](https://img.shields.io/badge/UX%2FUI-F9A8D4?style=for-the-badge&logo=figma&logoColor=500724)
 
 - 🔬 **Enfoque técnico:** Calidad de software (testing), modelado matemático y diseño de interfaces intuitivas.
 - 💬 **Hablemos de:** Desarrollo de sistemas, seguridad informática, buenas prácticas de código o metodologías de diseño.
