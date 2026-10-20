@@ -37,7 +37,7 @@ class Sam:
 <td width="35%" align="center" valign="middle">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="robot-oscuro.gif">
+  <source media="(prefers-color-scheme: dark)" srcset="darkrobi.gif">
   <source media="(prefers-color-scheme: light)" srcset="robot-claro.gif">
   <img src="robot-claro.gif" width="194"/>
 </picture>
