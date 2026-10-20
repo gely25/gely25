@@ -16,15 +16,7 @@
 <tr>
 <td width="65%" valign="middle">
 
-```python
-class Sam:
-    def __init__(self):
-        self.role  = "Estudiante de Ingeniería de Software"
-        self.focus = "Diseño de interfaces + lógica detrás de ellas"
-
-    def say_hi(self):
-        print("¡Hola! Bienvenido a mi perfil 👋")
-```
+<img src="codigo.svg" width="100%" alt="class Sam: role = Estudiante de Ingeniería de Software, focus = Diseño de interfaces + lógica detrás de ellas"/>
 
 ![IA](https://img.shields.io/badge/Inteligencia_Artificial-A7F3D0?style=for-the-badge&logo=openai&logoColor=black)
 ![Ciberseguridad](https://img.shields.io/badge/Ciberseguridad-7C3AED?style=for-the-badge&logo=hackthebox&logoColor=white)
