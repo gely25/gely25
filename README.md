@@ -1,18 +1,10 @@
 <div align="center">
 
-<!-- Banner de bienvenida: mismo degradado en ambos modos, letras blancas en oscuro y oscuras en claro -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6&height=200&section=header&text=%C2%A1Hola,%20soy%20Sam!&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35">
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6&height=200&section=header&text=%C2%A1Hola,%20soy%20Sam!&fontSize=42&fontColor=111111&animation=fadeIn&fontAlignY=35">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6&height=200&section=header&text=%C2%A1Hola,%20soy%20Sam!&fontSize=42&fontColor=111111&animation=fadeIn&fontAlignY=35" width="100%"/>
-</picture>
+<!-- Banner de bienvenida: una sola imagen, letras oscuras que se leen en modo claro y oscuro -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6&height=200&section=header&text=Hola%20soy%20Sam&fontSize=50&fontColor=111111&fontAlignY=35" width="100%"/>
 
-<!-- Texto tipo máquina de escribir: cian en modo oscuro, morado oscuro en modo claro -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Estudiante+de+Ingenier%C3%ADa+de+Software;Interesada+en+IA%2C+Ciberseguridad+y+UX%2FUI;Construyendo+dashboards%2C+APIs+y+prototipos;Aprendiendo+algo+nuevo+cada+d%C3%ADa+%F0%9F%9A%80">
-  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=4C1D95&center=true&vCenter=true&width=600&lines=Estudiante+de+Ingenier%C3%ADa+de+Software;Interesada+en+IA%2C+Ciberseguridad+y+UX%2FUI;Construyendo+dashboards%2C+APIs+y+prototipos;Aprendiendo+algo+nuevo+cada+d%C3%ADa+%F0%9F%9A%80">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=4C1D95&center=true&vCenter=true&width=600&lines=Estudiante+de+Ingenier%C3%ADa+de+Software;Interesada+en+IA%2C+Ciberseguridad+y+UX%2FUI;Construyendo+dashboards%2C+APIs+y+prototipos;Aprendiendo+algo+nuevo+cada+d%C3%ADa+%F0%9F%9A%80" alt="Typing SVG" />
-</picture>
+<!-- Texto tipo máquina de escribir: un violeta que se lee en modo claro y oscuro -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=7C3AED&center=true&vCenter=true&repeat=true&width=600&lines=Estudiante+de+Ingenier%C3%ADa+de+Software;Interesada+en+IA%2C+Ciberseguridad+y+UX%2FUI;Construyendo+dashboards%2C+APIs+y+prototipos;Aprendiendo+algo+nuevo+cada+d%C3%ADa+%F0%9F%9A%80" alt="Typing SVG" />
 
 </div>
 
