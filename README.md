@@ -78,13 +78,13 @@ class Sam:
 
 <div align="center">
 
-[![](https://raw.githubusercontent.com/gely25/gely25/main/profile-summary-card-output/aura_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+<a href="https://github.com/vn7n24fzkq/github-profile-summary-cards"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gely25/gely25/main/profile-summary-card-output/tokyonight/0-profile-details.svg"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gely25/gely25/main/profile-summary-card-output/default/0-profile-details.svg"><img src="https://raw.githubusercontent.com/gely25/gely25/main/profile-summary-card-output/default/0-profile-details.svg" alt=""/></picture></a>
 
-[![](https://raw.githubusercontent.com/gely25/gely25/main/profile-summary-card-output/aura_dark/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/gely25/gely25/main/profile-summary-card-output/aura_dark/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+<a href="https://github.com/vn7n24fzkq/github-profile-summary-cards"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gely25/gely25/main/profile-summary-card-output/tokyonight/1-repos-per-language.svg"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gely25/gely25/main/profile-summary-card-output/default/1-repos-per-language.svg"><img src="https://raw.githubusercontent.com/gely25/gely25/main/profile-summary-card-output/default/1-repos-per-language.svg" alt=""/></picture></a>
+<a href="https://github.com/vn7n24fzkq/github-profile-summary-cards"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gely25/gely25/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gely25/gely25/main/profile-summary-card-output/default/2-most-commit-language.svg"><img src="https://raw.githubusercontent.com/gely25/gely25/main/profile-summary-card-output/default/2-most-commit-language.svg" alt=""/></picture></a>
 
-[![](https://raw.githubusercontent.com/gely25/gely25/main/profile-summary-card-output/aura_dark/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/gely25/gely25/main/profile-summary-card-output/aura_dark/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+<a href="https://github.com/vn7n24fzkq/github-profile-summary-cards"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gely25/gely25/main/profile-summary-card-output/tokyonight/3-stats.svg"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gely25/gely25/main/profile-summary-card-output/default/3-stats.svg"><img src="https://raw.githubusercontent.com/gely25/gely25/main/profile-summary-card-output/default/3-stats.svg" alt=""/></picture></a>
+<a href="https://github.com/vn7n24fzkq/github-profile-summary-cards"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gely25/gely25/main/profile-summary-card-output/tokyonight/4-productive-time.svg"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gely25/gely25/main/profile-summary-card-output/default/4-productive-time.svg"><img src="https://raw.githubusercontent.com/gely25/gely25/main/profile-summary-card-output/default/4-productive-time.svg" alt=""/></picture></a>
 
 </div>
 
