@@ -1,16 +1,18 @@
 <div align="center">
 
-<!-- Banner de bienvenida animado (capsule-render) -->
+<!-- Banner de bienvenida: oscuro en modo claro para que destaque, degradado original en modo oscuro -->
 <picture>
-  <!-- Modo oscuro: lo que ya tenías -->
   <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6&height=200&section=header&text=¡Hola,%20soy%20Sam!&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35">
-  <!-- Modo claro: fondo oscuro/saturado + letras blancas con contraste -->
   <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:1e1b4b,50:4c1d95,100:7c3aed&height=200&section=header&text=¡Hola,%20soy%20Sam!&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e1b4b,50:4c1d95,100:7c3aed&height=200&section=header&text=¡Hola,%20soy%20Sam!&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
 </picture>
 
-<!-- Texto tipo máquina de escribir -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Estudiante+de+Ingenier%C3%ADa+de+Software;Interesada+en+IA%2C+Ciberseguridad+y+UX%2FUI;Construyendo+dashboards%2C+APIs+y+prototipos;Aprendiendo+algo+nuevo+cada+d%C3%ADa+%F0%9F%9A%80" alt="Typing SVG" />
+<!-- Texto tipo máquina de escribir: cian en modo oscuro, morado oscuro en modo claro -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Estudiante+de+Ingenier%C3%ADa+de+Software;Interesada+en+IA%2C+Ciberseguridad+y+UX%2FUI;Construyendo+dashboards%2C+APIs+y+prototipos;Aprendiendo+algo+nuevo+cada+d%C3%ADa+%F0%9F%9A%80">
+  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=4C1D95&center=true&vCenter=true&width=600&lines=Estudiante+de+Ingenier%C3%ADa+de+Software;Interesada+en+IA%2C+Ciberseguridad+y+UX%2FUI;Construyendo+dashboards%2C+APIs+y+prototipos;Aprendiendo+algo+nuevo+cada+d%C3%ADa+%F0%9F%9A%80">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=4C1D95&center=true&vCenter=true&width=600&lines=Estudiante+de+Ingenier%C3%ADa+de+Software;Interesada+en+IA%2C+Ciberseguridad+y+UX%2FUI;Construyendo+dashboards%2C+APIs+y+prototipos;Aprendiendo+algo+nuevo+cada+d%C3%ADa+%F0%9F%9A%80" alt="Typing SVG" />
+</picture>
 
 </div>
 
@@ -108,6 +110,19 @@ class Sam:
 </div>
 
 ---
+
+<div align="center">
+
+![Visitas](https://visitor-badge.laobi.icu/badge?page_id=gely25.gely25)
+
+<!-- Banner del footer: oscuro en modo claro, degradado original en modo oscuro -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6&height=100&section=footer">
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:1e1b4b,50:4c1d95,100:7c3aed&height=100&section=footer">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e1b4b,50:4c1d95,100:7c3aed&height=100&section=footer" width="100%"/>
+</picture>
+
+</div>
 
 <div align="center">
 
