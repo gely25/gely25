@@ -16,7 +16,11 @@
 <tr>
 <td width="65%" valign="middle">
 
-<p><img src="codigo.svg" width="100%" alt="class Sam: role = Estudiante de Ingeniería de Software, focus = Diseño de interfaces + lógica detrás de ellas"/></p>
+<p><picture>
+  <source media="(prefers-color-scheme: dark)" srcset="codigo-oscuro.svg">
+  <source media="(prefers-color-scheme: light)" srcset="codigo.svg">
+  <img src="codigo.svg" width="100%" alt="class Sam: role = Estudiante de Ingeniería de Software, focus = Diseño de interfaces + lógica detrás de ellas"/>
+</picture></p>
 
 ![IA](https://img.shields.io/badge/Inteligencia_Artificial-C4B5FD?style=for-the-badge&logo=openai&logoColor=1e1b4b)
 ![Ciberseguridad](https://img.shields.io/badge/Ciberseguridad-7C3AED?style=for-the-badge&logo=hackthebox&logoColor=white)
