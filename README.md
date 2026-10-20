@@ -2,9 +2,9 @@
 
 <!-- Banner de bienvenida: mismo degradado en ambos modos, letras blancas en oscuro y oscuras en claro -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6&height=200&section=header&text=¡Hola,%20soy%20Sam!&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35">
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6&height=200&section=header&text=¡Hola,%20soy%20Sam!&fontSize=42&fontColor=111111&animation=fadeIn&fontAlignY=35">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6&height=200&section=header&text=¡Hola,%20soy%20Sam!&fontSize=42&fontColor=111111&animation=fadeIn&fontAlignY=35" width="100%"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6&height=200&section=header&text=%C2%A1Hola,%20soy%20Sam!&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35">
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6&height=200&section=header&text=%C2%A1Hola,%20soy%20Sam!&fontSize=42&fontColor=111111&animation=fadeIn&fontAlignY=35">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6&height=200&section=header&text=%C2%A1Hola,%20soy%20Sam!&fontSize=42&fontColor=111111&animation=fadeIn&fontAlignY=35" width="100%"/>
 </picture>
 
 <!-- Texto tipo máquina de escribir: cian en modo oscuro, morado oscuro en modo claro -->
