@@ -1,7 +1,13 @@
 <div align="center">
 
 <!-- Banner de bienvenida animado (capsule-render) -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6&height=200&section=header&text=¡Hola,%20soy%20Sam!&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
+<picture>
+  <!-- Modo oscuro: lo que ya tenías -->
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6&height=200&section=header&text=¡Hola,%20soy%20Sam!&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35">
+  <!-- Modo claro: fondo oscuro/saturado + letras blancas con contraste -->
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:1e1b4b,50:4c1d95,100:7c3aed&height=200&section=header&text=¡Hola,%20soy%20Sam!&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e1b4b,50:4c1d95,100:7c3aed&height=200&section=header&text=¡Hola,%20soy%20Sam!&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
+</picture>
 
 <!-- Texto tipo máquina de escribir -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Estudiante+de+Ingenier%C3%ADa+de+Software;Interesada+en+IA%2C+Ciberseguridad+y+UX%2FUI;Construyendo+dashboards%2C+APIs+y+prototipos;Aprendiendo+algo+nuevo+cada+d%C3%ADa+%F0%9F%9A%80" alt="Typing SVG" />
