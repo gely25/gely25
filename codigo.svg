@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" viewBox="0 0 640 262" width="640" height="262" role="img" aria-labelledby="t d">
+  <title id="t">Clase Sam</title>
+  <desc id="d">class Sam con role Estudiante de Ingeniería de Software, focus Diseño de interfaces y lógica detrás de ellas, y un método say_hi que imprime un saludo.</desc>
+  <rect x="1" y="1" width="638" height="260" rx="14" fill="#1e1b4b" stroke="#4c1d95" stroke-width="2"/>
+  <path d="M1 15a14 14 0 0 1 14-14h610a14 14 0 0 1 14 14v26H1z" fill="#26215c"/>
+  <circle cx="26" cy="21" r="6" fill="#ff6b6b"/>
+  <circle cx="46" cy="21" r="6" fill="#fcd34d"/>
+  <circle cx="66" cy="21" r="6" fill="#a7f3d0"/>
+  <g font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="16" fill="#e2e8f0" style="white-space:pre" xml:space="preserve">
+    <text x="28" y="76" xml:space="preserve"><tspan fill="#f9a8d4">class</tspan> <tspan fill="#c4b5fd">Sam</tspan><tspan fill="#cbd5e1">:</tspan></text>
+    <text x="28" y="104" xml:space="preserve">    <tspan fill="#f9a8d4">def</tspan> <tspan fill="#a5b4fc">__init__</tspan><tspan fill="#cbd5e1">(</tspan><tspan fill="#fcd34d">self</tspan><tspan fill="#cbd5e1">):</tspan></text>
+    <text x="28" y="132" xml:space="preserve">        <tspan fill="#fcd34d">self</tspan><tspan fill="#cbd5e1">.</tspan><tspan fill="#a5b4fc">role</tspan>  <tspan fill="#f9a8d4">=</tspan> <tspan fill="#a7f3d0">"Estudiante de Ingeniería de Software"</tspan></text>
+    <text x="28" y="160" xml:space="preserve">        <tspan fill="#fcd34d">self</tspan><tspan fill="#cbd5e1">.</tspan><tspan fill="#a5b4fc">focus</tspan> <tspan fill="#f9a8d4">=</tspan> <tspan fill="#a7f3d0">"Diseño de interfaces + lógica detrás de ellas"</tspan></text>
+    <text x="28" y="216" xml:space="preserve">    <tspan fill="#f9a8d4">def</tspan> <tspan fill="#a5b4fc">say_hi</tspan><tspan fill="#cbd5e1">(</tspan><tspan fill="#fcd34d">self</tspan><tspan fill="#cbd5e1">):</tspan></text>
+    <text x="28" y="244" xml:space="preserve">        <tspan fill="#67e8f9">print</tspan><tspan fill="#cbd5e1">(</tspan><tspan fill="#a7f3d0">"¡Hola! Bienvenido a mi perfil 👋"</tspan><tspan fill="#cbd5e1">)</tspan></text>
+  </g>
+</svg>
