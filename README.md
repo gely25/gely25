@@ -38,8 +38,8 @@ class Sam:
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="robot.gif">
-  <source media="(prefers-color-scheme: light)" srcset="darkrobi.gif">
-  <img src="robot.gif" width="150"/>
+  <source media="(prefers-color-scheme: light)" srcset="robot-claro.gif">
+  <img src="robot.gif" width="153"/>
 </picture>
 <br/>
 <sub><i> Siempre aprendiendo... </i></sub>
